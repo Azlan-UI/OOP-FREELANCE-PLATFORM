@@ -1,0 +1,7 @@
+
+1|Logo Design|Create a professional business logo|Logo|50
+2|Blog Writing|Write 1000 words SEO-optimized blog|Writing|30
+3|Website Development|Build a responsive website with HTML/CSS|Web|100
+4|Social Media Marketing|Manage Instagram and Facebook ads|Marketing|45
+5|Video Editing|Edit a 5-minute YouTube video professionally|Video|40
+6|Freelancer|i freelance|LogoDesigning|200
